@@ -24,6 +24,9 @@
     NSLog(@"Test 3");
     
     NSLog(@"Test 4");
+    
+    NSLog(@"Child Test 4");
+    
     // Override point for customization after application launch.
     return YES;
 }
